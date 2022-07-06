@@ -1,1 +1,1 @@
-print('oi')
+print('o 1i')
